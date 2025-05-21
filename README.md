@@ -64,7 +64,7 @@ The application includes unit tests using Mockito:
 
 ## Author
 
-[Your Name]
+Jose Villegas
 
 ## License
 
